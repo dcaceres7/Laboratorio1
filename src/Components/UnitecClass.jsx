@@ -30,9 +30,9 @@ class UnitecClass extends Component {
                 <div>
                     <label>Nombre de CLase {this.state.unitecClassName}</label>
                 </div>
-                <button onClick={this.update1} >hola1</button>
-                <button onClick={this.update2} >hola2</button>
-                <button onClick={this.update3} >hola3</button>
+                <button onClick={this.update1} >CCC 404</button>
+                <button onClick={this.update2} >CCC 594</button>
+                <button onClick={this.update3} >LCC 104</button>
             </div>
         )
     }
